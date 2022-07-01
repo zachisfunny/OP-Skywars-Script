@@ -1,1 +1,0 @@
-# OP-Skywars-Script
